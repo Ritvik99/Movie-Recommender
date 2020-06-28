@@ -1,3 +1,10 @@
+Following packages were used to build the system:
+- Pandas
+- Numpy
+
+MovieLens Dataset has been used for building the simple movie recommendation system. The dataset description is given below:
+
+
 SUMMARY & USAGE LICENSE
 =============================================
 
